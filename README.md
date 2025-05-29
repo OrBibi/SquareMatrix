@@ -26,7 +26,7 @@ MatrixProject/
 ````
 ### Run memory checks with valgrind:
 ```bash
-make test       # Compiles and run the tests
+make test       # Compiles and runs the tests
 ```
 
 ### Run memory checks with valgrind:
