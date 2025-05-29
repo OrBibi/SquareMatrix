@@ -1,0 +1,16 @@
+# orbibiariel@gmail.com
+
+# Compiled binaries
+Main
+test_bin
+
+# Compiled object files
+*.o
+
+# Editor configuration (VSCode)
+.vscode/
+
+# Temporary files from editors (e.g., vim)
+*.swp
+*.swo
+*~
