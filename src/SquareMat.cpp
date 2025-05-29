@@ -295,7 +295,7 @@ double SquareMat::operator!() const {
 }
 
 
-// Output matrix to an output stream
+// Output matrix to an output stream.
 namespace MatrixNS {
 std::ostream& operator<<(std::ostream& os, const SquareMat& mat) {
     for (int i = 0; i < mat.size; ++i) {
